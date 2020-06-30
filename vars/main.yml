@@ -1,1 +1,3 @@
 ---
+ldap:
+  domain: "{{ network.ldap_domain }}"
